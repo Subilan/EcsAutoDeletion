@@ -1,0 +1,12 @@
+# 必填 - 阿里云 AccessKeyId
+access_key_id: ~
+# 必填 - 阿里云 AccessKeySecret
+access_key_secret: ~
+# 必填 - 允许服务器空闲的最大时间，单位为秒
+max_empty_time: 43200
+# 必填 - 备份脚本在服务器上的位置，若不需要备份请写 "~"
+backup_script_path: ~
+# 必填 - 主机所在地域
+region: cn-shanghai
+# 必填 - 主机名，可在 ECS 控制台查看
+instance_name: ~

@@ -1,0 +1,6 @@
+name: Hibernate
+main: org.sotap.Hibernate.Main
+version: "1.0.0"
+author: sotapmc
+api-version: "1.16"
+api: []
