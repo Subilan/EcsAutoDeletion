@@ -1,4 +1,4 @@
-package org.sotap.Hibernate;
+package org.sotap.EcsAutoDeletion;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;

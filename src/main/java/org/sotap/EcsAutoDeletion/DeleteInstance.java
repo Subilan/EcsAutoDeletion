@@ -1,4 +1,4 @@
-package org.sotap.Hibernate;
+package org.sotap.EcsAutoDeletion;
 
 import java.io.File;
 

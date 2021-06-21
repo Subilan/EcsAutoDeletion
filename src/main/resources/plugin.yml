@@ -1,4 +1,4 @@
-name: Hibernate
+name: EcsAutoDeletion
 main: org.sotap.Hibernate.Main
 version: "1.0.0"
 author: sotapmc
