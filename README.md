@@ -9,7 +9,7 @@
 ## 构建
 
 ```shell
-git clone https://github.com/sotapmc/EcsAutoDeletion.git
+git clone https://github.com/Subilan/EcsAutoDeletion.git
 cd EcsAutoDeletion
 ./gradlew build
 # jar 会生成在 build/libs 里。
